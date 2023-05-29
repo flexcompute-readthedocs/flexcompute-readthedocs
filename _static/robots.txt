@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow: /notebooks/ # Hidden version
+
+Sitemap: https://docs.flexcompute.com/projects/tidy3d/en/feature-custom-sitemap/sitemap.xml
