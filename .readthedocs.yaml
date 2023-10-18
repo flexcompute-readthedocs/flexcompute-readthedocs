@@ -1,0 +1,10 @@
+version: 2
+
+build:
+  os: "ubuntu-20.04"
+  apt_packages:
+    - python3-dev
+    - libffi-dev
+    - fonts-freefont-otf
+  tools:
+    python: "3.8"
